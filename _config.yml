@@ -1,6 +1,5 @@
-gems:
+plugins:
   - jekyll-gist
-  - pygments.rb
 
 # Dependencies
 markdown:         kramdown 
