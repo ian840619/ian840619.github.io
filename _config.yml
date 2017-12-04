@@ -1,11 +1,10 @@
 gems:
   - jekyll-paginate
-  - redcarpet
   - jekyll-gist
   - pygments.rb
 
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown 
 highlighter:      paginate
 
 # Permalinks
