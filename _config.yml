@@ -1,11 +1,10 @@
 gems:
-  - jekyll-paginate
   - jekyll-gist
   - pygments.rb
 
 # Dependencies
 markdown:         kramdown 
-highlighter:      paginate
+highlighter:      rough
 
 # Permalinks
 permalink:        pretty
