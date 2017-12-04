@@ -16,8 +16,8 @@ permalink:        pretty
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              /
-baseurl:          ../
+url:              http://ian840619.github.io/
+baseurl:          ian840619/
 
 author:
   name:           'Mark Otto'
